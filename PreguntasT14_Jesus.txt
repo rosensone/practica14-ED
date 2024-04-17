@@ -1,0 +1,36 @@
+Preguntas Test Tema 14 Entornos de Desarrollo
+
+1) ¿Cual es el enfoque mas utilizado a la hora de realizar pruebas?
+
+	a) Enfoque exploratorio
+	b) Enfoque basado en cajas (Correcta)
+	c) Pruebas de usabilidad
+	d) Todas son correctas
+
+2)¿En que nivel de pruebas se necesita interaccion humana?
+
+	a) Pruebas de accesibilidad
+	b) Pruebas de aceptacion
+	c) Pruebas de usabilidad (correcta)
+	d) Pruebas de sistemas
+
+3) ¿Que tipos de pruebas basado en cajas existe?
+
+	a) Caja blanca, caja gris y caja
+	b) Caja negra, caja blanca y caja roja
+	c) Caja negra, caja blanca y caja gris (correcta)
+	d) Caja negra, caja gris y caja naranja
+
+4) ¿Dentro de los niveles de pruebas, que tipos de pruebas se encuentran en la ultima etapa antes de lanzar el software?
+
+	a) Accesibilidad
+	b) Usabilidad
+	c) Unitarias
+	d) Aceptacion (correcta)
+
+5)¿De que se trata las pruebas A/B?
+	
+	a) Basadas en caja negra
+	b) Pruebas unitarias
+	c) 2 equipos trabahan en la misma solucion y comparan resultados (correcta)
+	d) Combinacion de pruebas de caja negra y caja blanca
