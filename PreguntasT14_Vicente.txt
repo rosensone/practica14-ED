@@ -1,0 +1,29 @@
+-En ocasiones el tiempo de pruebas es:
+a) Menor que el tiempo de desarrollo
+b) Igual que el tiempo de desarrollo
+c) Mayor que el tiempo de desarrollo (CORRECTA)
+d) Tiempo de desarrollo
+
+-Las pruebas de usuario o test partys son pruebas de:
+a) Integración
+b) Caja negra (CORRECTA)
+c) Caja blanca
+d) Unitarias
+
+-Las pruebas de caja gris:
+a) No existen
+b) Son las más utilizadas
+c) Es dificil de implementar
+d) Combina caja negra y blanca (CORRECTA)
+
+-Marca el orden correcto de nivel de ejecución de pruebas:
+a) Unitarias, Integración, Sistemas, Aceptación. (CORRECTA)
+b) Integración, Unitarias, Aceptación, Sistemas.
+c) Unitarias, Integración, Aceptación, Sistemas.
+d) Sistemas, Unitarias, Integración, Aceptación.
+
+-Las pruebas de aceptación son:
+a) Las ultimas etapas antes de lanzar el software. (CORRECTA)
+b) Pruebas para la intutividad de la interfaz.
+c) Requiere interacción humana.
+d) Son las pruebas de caja gris.
