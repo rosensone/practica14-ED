@@ -1,0 +1,34 @@
+1. ¿Qué enfoque de pruebas permite definir pruebas de manera personal y libre?
+
+a) Enfoque estructurado
+b) Enfoque basado en cajas
+c) Enfoque exploratorio X
+d) Enfoque de caja gris
+
+2. ¿Qué tipo de pruebas se centra en el conocimiento detallado del código del sistema?
+
+a) Pruebas de caja negra
+b) Pruebas de caja gris
+c) Pruebas de usabilidad
+d) Pruebas de caja blanca X
+
+3. ¿Cuál es uno de los niveles de pruebas que se centra en la interfaz de usuario?
+
+a) Pruebas unitarias
+b) Pruebas de usabilidad X
+c) Pruebas de seguridad
+d) Pruebas de aceptación
+
+4. ¿Qué tipo de pruebas se realizan sin conocer los detalles de implementación del software?
+
+a) Pruebas de caja blanca
+b) Pruebas de usabilidad
+c) Pruebas de aceptación
+d) Pruebas de caja negra X
+
+5. ¿Para qué tipo de aplicaciones son esenciales las pruebas de seguridad?
+
+a) Aplicaciones de entretenimiento
+b) Aplicaciones educativas
+c) Aplicaciones que manejan datos sensibles X
+d) Aplicaciones de redes sociales
